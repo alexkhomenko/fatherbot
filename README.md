@@ -1,0 +1,2 @@
+# fatherbot
+Wisdoms from father
